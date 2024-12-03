@@ -51,5 +51,5 @@ To get started with this project, clone the repository and follow the instructio
 
 ```bash
 git clone https://github.com/arka-kxqi/bitmemes.git
-cd pwr_loan
+cd bitmemes
 ```
